@@ -1,0 +1,4 @@
+XlsxWriter==3.2.9
+openpyxl==3.1.5
+pyOpenVBA==6.3.5
+olefile==0.47
